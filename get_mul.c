@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * get_mul - function that multiples the top two elements of the stack
+ * get_mul - function that multiplies the top two elements of the stack
  *
  * @stack: pointer to the top of the stack
  * @line_number: where the line number appears

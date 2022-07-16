@@ -103,3 +103,5 @@ julien@ubuntu:~/monty$
 	- an error occured
 * If it can’t malloc anymore, print the error message `Error: malloc failed`, followed by a new line, and exit with status `EXIT_FAILURE`.
 * `malloc` and `free` are used in the program.
+## Credit
+* [Uduak Umanah](https://github.com/Eyakenojnr)
